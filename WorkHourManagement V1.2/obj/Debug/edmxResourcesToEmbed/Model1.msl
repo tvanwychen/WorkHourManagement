@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dtbPayPeriodsModelStoreContainer" CdmEntityContainer="dtbPayPeriodsEntities">
+    <EntitySetMapping Name="tblPayPeriods">
+      <EntityTypeMapping TypeName="dtbPayPeriodsModel.tblPayPeriod">
+        <MappingFragment StoreEntitySet="tblPayPeriods">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="RO" ColumnName="RO" />
+          <ScalarProperty Name="LaborHours" ColumnName="LaborHours" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

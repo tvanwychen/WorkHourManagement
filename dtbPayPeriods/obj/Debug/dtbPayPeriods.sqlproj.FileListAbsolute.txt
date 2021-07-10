@@ -1,0 +1,6 @@
+C:\Users\penci\OneDrive\Desktop\WorkHourManagement V1.2\dtbPayPeriods\bin\Debug\dtbPayPeriods.dacpac
+C:\Users\penci\OneDrive\Desktop\WorkHourManagement V1.2\dtbPayPeriods\bin\Debug\dtbPayPeriods.dll
+C:\Users\penci\OneDrive\Desktop\WorkHourManagement V1.2\dtbPayPeriods\bin\Debug\dtbPayPeriods.pdb
+C:\Users\penci\OneDrive\Desktop\WorkHourManagement V1.2\dtbPayPeriods\obj\Debug\dtbPayPeriods.sqlproj.AssemblyReference.cache
+C:\Users\penci\OneDrive\Desktop\WorkHourManagement V1.2\dtbPayPeriods\obj\Debug\dtbPayPeriods.dll
+C:\Users\penci\OneDrive\Desktop\WorkHourManagement V1.2\dtbPayPeriods\obj\Debug\dtbPayPeriods.pdb
